@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Closed Pull Request</string>
+    <string name="error_text">Data Loading Error.</string>
+</resources>
